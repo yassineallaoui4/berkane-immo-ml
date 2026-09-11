@@ -1,4 +1,4 @@
-// JS global pour le site Berkane Immo
+// Shared interactions for the static interface.
 
 function showConfirmation(event) {
   event.preventDefault();
@@ -9,31 +9,10 @@ function showConfirmation(event) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  // Gestion du formulaire de contact
+  // The contact form is a local interface demonstration; it sends no data.
   const form = document.querySelector('.contact-container form');
   if (form) {
     form.addEventListener('submit', showConfirmation);
   }
 
-  // Fonction pour rediriger vers accueil.html
-  function redirectToAccueil(event) {
-    event.preventDefault();
-    window.location.href = 'accueil.html';
-  }
-
-  // Gestion du formulaire de login (redirection vers accueil.html)
-  if (window.location.pathname.includes('login.html')) {
-    const loginForm = document.querySelector('.form-block');
-    if (loginForm) {
-      loginForm.addEventListener('submit', redirectToAccueil);
-    }
-  }
-
-  // Gestion du formulaire de signin (redirection vers accueil.html)
-  if (window.location.pathname.includes('signin.html')) {
-    const signinForm = document.querySelector('.form');
-    if (signinForm) {
-      signinForm.addEventListener('submit', redirectToAccueil);
-    }
-  }
 });
