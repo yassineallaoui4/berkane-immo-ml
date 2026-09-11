@@ -1,0 +1,25 @@
+{
+  "model_version": "1.0",
+  "algorithm": "RandomForestRegressor",
+  "data_kind": "synthetic-demo",
+  "rows": 600,
+  "test_rows": 120,
+  "mae_mad": 141910.03,
+  "rmse_mad": 188199.37,
+  "r2": 0.9321,
+  "trained_at": "2026-09-10T17:22:52.905576+00:00",
+  "features": [
+    "district",
+    "property_type",
+    "condition",
+    "area_m2",
+    "bedrooms",
+    "bathrooms",
+    "floor",
+    "age_years",
+    "balcony",
+    "garden",
+    "garage",
+    "air_conditioning"
+  ]
+}
