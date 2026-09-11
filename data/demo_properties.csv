@@ -1,0 +1,601 @@
+district,property_type,condition,area_m2,bedrooms,bathrooms,floor,age_years,balcony,garden,garage,air_conditioning,price_mad
+Centre-ville,apartment,new,257,7,2,3,44,0,0,1,1,2661648
+Hay Nahda,house,new,299,7,2,0,4,1,0,1,0,3401016
+Hay Bouhdila,villa,new,231,5,2,0,35,1,1,1,0,2352522
+Hay Moulouya,apartment,good,134,4,2,4,21,1,0,0,0,1022901
+Centre-ville,house,new,130,3,1,0,11,1,1,1,0,1924062
+Hay Sidi Ahmed,house,renovated,197,4,2,0,21,1,0,1,0,1774639
+Hay Bouhdila,house,good,219,6,2,0,15,1,1,0,1,1827061
+Hay Moulouya,apartment,good,164,4,2,4,45,1,0,1,1,1214098
+Hay Sidi Ahmed,house,good,242,6,3,0,7,0,1,1,1,2312447
+Hay Sidi Ahmed,apartment,to_renovate,144,3,1,3,32,1,0,0,0,773864
+Hay Trifa,apartment,new,119,4,1,5,14,1,0,0,0,1024426
+Hay Sidi Ahmed,house,good,163,4,1,0,34,1,1,1,1,1547914
+Hay Moulouya,house,good,127,3,1,0,42,1,1,0,1,1097187
+Centre-ville,apartment,good,67,2,1,3,21,1,0,0,1,725821
+Lotissement El Massira,villa,good,272,6,2,0,30,1,0,0,0,3126812
+Hay Sidi Ahmed,villa,good,110,2,2,0,1,0,0,1,0,1281898
+Hay Sidi Ahmed,apartment,new,186,5,2,2,20,0,0,0,0,1594293
+Hay Nahda,apartment,renovated,187,4,2,6,4,0,0,0,1,2141725
+Centre-ville,apartment,good,273,8,3,1,14,0,0,0,1,2834035
+Hay Nahda,apartment,renovated,108,1,1,6,31,1,0,0,0,866046
+Hay Dallas,apartment,new,81,2,1,0,22,0,0,1,0,804139
+Hay Bouhdila,house,to_renovate,197,5,2,0,0,1,0,0,1,1389719
+Hay El Qods,apartment,to_renovate,124,2,1,5,15,1,0,0,1,858518
+Hay Bouhdila,house,new,120,5,1,0,20,0,0,1,1,1188900
+Lotissement El Massira,house,good,85,2,1,0,27,1,1,1,1,1051998
+Hay Nahda,apartment,to_renovate,163,5,2,4,38,1,0,0,1,1087268
+Lotissement El Massira,apartment,good,305,7,2,2,4,1,0,1,0,3225616
+Hay Dallas,villa,new,204,5,2,0,35,1,1,1,0,2000858
+Hay Trifa,house,good,150,3,1,0,7,1,1,1,1,1458740
+Hay Moulouya,house,good,263,7,4,0,43,1,1,0,0,2147880
+Hay Bouhdila,house,good,191,5,1,0,27,0,1,1,1,1773607
+Hay Sidi Ahmed,apartment,new,243,5,2,0,18,0,0,0,1,1950291
+Hay Bouhdila,apartment,renovated,91,3,2,1,21,1,0,0,1,739924
+Hay Moulouya,villa,to_renovate,261,7,3,0,5,1,0,1,1,2422055
+Hay Dallas,apartment,good,254,6,2,6,6,0,0,0,0,2042010
+Hay El Qods,house,good,302,7,4,0,0,0,1,0,0,2762704
+Hay Trifa,house,renovated,194,6,2,0,0,1,1,1,1,2142473
+Hay Trifa,apartment,new,259,6,2,5,38,1,0,0,0,1973377
+Hay Sidi Ahmed,apartment,good,291,7,3,5,9,0,0,1,1,2551231
+Hay Dallas,house,good,211,3,1,0,30,0,0,1,0,1664989
+Hay Dallas,apartment,good,193,5,2,5,20,0,0,1,0,1770700
+Hay Nahda,house,to_renovate,64,2,1,0,28,0,1,1,1,640429
+Hay Bouhdila,house,renovated,171,4,2,0,11,1,1,1,0,1864202
+Hay El Qods,apartment,good,234,7,4,2,44,1,0,0,0,1769869
+Hay Nahda,apartment,good,276,5,2,1,42,1,0,1,0,2144363
+Centre-ville,house,renovated,206,5,2,0,30,1,1,1,1,2459106
+Hay Dallas,villa,new,247,6,2,0,12,1,0,1,1,3259274
+Hay Trifa,house,to_renovate,66,2,1,0,12,1,0,1,0,494578
+Hay Moulouya,apartment,renovated,147,2,1,3,44,0,0,1,0,986987
+Hay Trifa,house,to_renovate,151,4,2,0,21,1,0,0,0,916382
+Hay Nahda,villa,good,183,4,2,0,20,0,1,1,1,2072912
+Hay Salam,apartment,good,294,8,3,6,26,1,0,1,0,2447428
+Hay Bouhdila,house,renovated,223,5,2,0,34,1,0,1,0,2038288
+Hay Bouhdila,house,new,128,2,1,0,27,1,1,1,1,1353642
+Hay Sidi Ahmed,apartment,good,218,6,2,4,42,1,0,0,1,1510335
+Hay Nahda,house,new,238,7,4,0,45,0,0,0,0,2024191
+Hay Trifa,apartment,renovated,267,6,3,3,19,0,0,0,0,2000127
+Hay El Qods,apartment,to_renovate,184,4,2,5,39,0,0,0,1,1072068
+Hay Moulouya,house,new,167,4,1,0,37,1,1,1,0,1672483
+Centre-ville,house,new,283,7,3,0,4,0,1,1,0,4010268
+Hay Sidi Ahmed,apartment,new,212,4,1,4,24,0,0,0,1,1721728
+Lotissement El Massira,villa,good,231,6,2,0,3,0,0,1,1,3032947
+Hay Nahda,villa,renovated,203,3,1,0,22,1,1,1,1,2657431
+Hay El Qods,apartment,good,309,8,3,4,40,0,0,1,0,2101623
+Hay El Qods,apartment,new,129,1,1,3,28,1,0,1,1,1478227
+Hay Sidi Ahmed,house,renovated,205,6,3,0,36,0,0,0,0,1597510
+Hay Moulouya,house,to_renovate,95,2,1,0,35,1,1,0,1,716373
+Hay Bouhdila,apartment,to_renovate,315,7,3,3,2,1,0,1,0,2009816
+Centre-ville,apartment,good,108,3,2,2,19,1,0,0,1,1197225
+Hay Dallas,house,new,190,5,1,0,11,1,0,1,1,2186389
+Hay Moulouya,apartment,renovated,58,1,1,2,6,0,1,1,1,689289
+Hay Trifa,apartment,good,215,4,1,3,0,0,0,1,0,1628360
+Hay Salam,villa,good,114,4,3,0,3,0,1,0,0,1566192
+Lotissement El Massira,apartment,good,271,7,2,0,17,1,0,0,0,2755137
+Centre-ville,villa,good,109,3,1,0,5,1,1,0,1,1634613
+Hay Bouhdila,house,good,318,8,3,0,19,0,1,1,0,2728461
+Hay Bouhdila,house,new,97,3,2,0,0,0,1,1,0,1223198
+Hay Trifa,house,good,231,5,1,0,6,1,1,0,1,1962178
+Hay Moulouya,apartment,new,225,6,3,2,16,1,0,0,0,1965188
+Hay El Qods,apartment,renovated,222,5,2,6,4,0,0,0,1,2187591
+Hay Trifa,villa,renovated,183,5,3,0,4,1,0,1,0,2107516
+Hay Sidi Ahmed,apartment,renovated,153,4,1,0,27,0,0,1,1,1316509
+Hay Trifa,apartment,renovated,81,1,1,5,11,1,0,0,1,759331
+Hay El Qods,house,good,96,2,1,0,0,0,0,1,1,1076030
+Hay Moulouya,apartment,renovated,127,3,2,6,28,0,1,1,1,1231059
+Hay El Qods,apartment,new,249,5,2,4,3,1,0,0,0,2748302
+Hay Salam,apartment,good,75,2,2,5,27,1,0,1,1,728778
+Hay El Qods,apartment,good,61,1,1,3,6,0,0,0,1,504960
+Hay Dallas,apartment,new,65,1,1,6,12,1,0,0,1,697288
+Hay Moulouya,villa,good,274,7,3,0,43,1,1,1,1,2589459
+Centre-ville,house,good,133,3,1,0,30,0,0,0,1,1332096
+Hay Nahda,villa,good,198,6,2,0,2,0,0,0,1,2449568
+Hay Bouhdila,house,to_renovate,165,3,1,0,40,1,1,1,0,1106783
+Centre-ville,villa,good,158,5,2,0,33,1,1,0,1,2004620
+Centre-ville,house,to_renovate,231,4,2,0,34,0,1,1,1,2067366
+Hay Trifa,apartment,renovated,153,4,2,2,27,0,0,0,1,1143653
+Hay Bouhdila,apartment,good,272,7,3,0,33,1,0,1,0,1757020
+Hay Sidi Ahmed,apartment,renovated,92,2,1,0,12,0,0,1,1,794507
+Hay Salam,villa,renovated,250,6,3,0,11,0,1,1,1,3063787
+Hay Trifa,house,good,285,7,3,0,15,1,1,1,1,2361887
+Lotissement El Massira,villa,new,131,3,1,0,38,0,0,1,1,1799525
+Hay Sidi Ahmed,apartment,good,222,6,2,2,10,0,0,1,1,1755980
+Hay Moulouya,house,good,264,6,2,0,5,0,1,1,1,2998713
+Lotissement El Massira,villa,new,218,5,2,0,3,1,0,1,1,3045475
+Hay Bouhdila,apartment,good,93,2,1,5,30,0,0,0,1,681537
+Hay Nahda,apartment,good,313,8,4,2,30,1,0,0,0,2775508
+Lotissement El Massira,house,new,133,2,1,0,12,0,1,1,1,1665009
+Hay Nahda,apartment,to_renovate,68,1,1,3,15,0,0,1,0,517194
+Hay Sidi Ahmed,house,new,56,1,1,0,4,1,0,1,0,777715
+Lotissement El Massira,apartment,good,146,3,2,5,3,1,0,0,1,1641674
+Hay Dallas,house,good,82,2,1,0,43,0,1,1,0,776885
+Hay El Qods,house,good,250,8,4,0,25,1,1,1,1,2491081
+Hay Salam,house,new,160,3,1,0,34,1,1,1,0,1706950
+Hay Salam,apartment,good,209,5,2,6,38,1,0,0,1,1742255
+Hay Dallas,house,good,127,4,1,0,31,1,1,1,1,1233431
+Hay Nahda,apartment,to_renovate,133,5,2,6,28,1,0,0,1,915006
+Centre-ville,house,good,76,3,1,0,4,1,0,1,1,1088965
+Hay Dallas,villa,good,296,7,2,0,37,1,1,0,1,2831241
+Hay Trifa,apartment,good,205,5,3,5,39,1,0,0,1,1383843
+Lotissement El Massira,villa,good,299,6,3,0,44,1,0,1,1,3196615
+Hay Bouhdila,apartment,to_renovate,129,4,2,1,39,1,0,1,0,854063
+Hay Salam,house,renovated,317,8,3,0,2,0,1,1,1,3871910
+Hay El Qods,apartment,renovated,199,3,1,1,21,1,0,1,0,2098781
+Hay Dallas,apartment,good,200,4,1,1,24,0,0,0,1,1426576
+Hay El Qods,apartment,to_renovate,286,7,3,1,25,0,0,0,1,1845110
+Hay Nahda,house,new,77,2,1,0,33,1,1,1,0,953855
+Hay Dallas,house,good,262,6,3,0,28,1,1,1,1,2114154
+Hay Nahda,villa,good,71,2,2,0,11,0,0,1,1,990618
+Centre-ville,apartment,good,146,5,2,6,9,1,0,1,0,1537787
+Hay Trifa,apartment,to_renovate,46,1,1,5,3,1,0,0,1,300317
+Hay El Qods,apartment,good,186,4,2,2,31,0,0,0,0,1290347
+Hay Dallas,apartment,renovated,127,3,1,3,9,0,0,0,1,1055132
+Hay El Qods,apartment,to_renovate,244,6,2,0,8,1,1,1,1,2210352
+Hay El Qods,apartment,good,227,4,2,6,25,1,1,1,0,2066719
+Centre-ville,house,renovated,264,6,4,0,9,0,0,1,1,3769950
+Hay Moulouya,villa,good,165,4,2,0,19,1,0,1,1,1880287
+Hay Nahda,house,good,241,5,2,0,43,1,1,1,1,1768337
+Centre-ville,apartment,good,178,5,1,1,10,0,1,0,1,1907498
+Hay Salam,apartment,new,175,4,1,6,19,0,0,0,1,1674075
+Hay Trifa,villa,good,229,6,3,0,16,0,1,1,0,2314488
+Hay Bouhdila,apartment,renovated,76,2,1,5,25,0,0,1,1,731427
+Hay Nahda,villa,renovated,91,2,1,0,32,1,1,1,1,1259577
+Hay Trifa,house,to_renovate,196,4,2,0,26,0,1,0,1,1358697
+Hay Trifa,apartment,good,139,2,1,2,8,1,0,0,1,959105
+Lotissement El Massira,apartment,renovated,61,3,1,6,1,0,0,0,0,695591
+Hay Dallas,apartment,to_renovate,240,4,2,0,22,1,0,0,1,1434408
+Hay Moulouya,house,new,256,7,3,0,45,1,1,1,0,2277733
+Hay Moulouya,house,good,139,4,1,0,34,0,1,0,0,1102507
+Centre-ville,apartment,new,314,7,3,1,13,0,0,1,0,3735742
+Hay Sidi Ahmed,apartment,good,237,5,2,1,26,0,0,1,0,1519985
+Lotissement El Massira,apartment,good,291,7,3,3,6,0,0,1,1,2906198
+Lotissement El Massira,apartment,new,189,4,2,4,7,1,0,1,0,2259811
+Hay Moulouya,apartment,good,81,2,2,1,10,0,0,0,1,717530
+Hay Salam,apartment,good,51,2,2,6,18,1,1,1,0,742821
+Hay Dallas,apartment,new,213,3,2,5,24,0,0,0,0,1833944
+Centre-ville,house,new,74,3,1,0,33,1,0,0,0,852729
+Hay Moulouya,apartment,good,77,2,1,6,18,0,0,1,0,674594
+Hay Salam,apartment,renovated,188,3,2,5,42,0,0,0,1,1532116
+Hay Salam,apartment,new,70,2,1,4,17,0,0,1,0,685065
+Hay Salam,house,new,211,5,1,0,42,1,1,1,1,1974534
+Hay Trifa,apartment,good,159,3,1,6,24,0,0,1,1,1144864
+Hay Dallas,apartment,good,157,3,1,0,4,0,0,0,1,1379348
+Hay Sidi Ahmed,apartment,new,275,5,2,5,5,0,0,0,1,2662066
+Hay Nahda,apartment,to_renovate,96,2,2,0,4,1,0,0,0,784383
+Centre-ville,villa,renovated,165,3,1,0,24,1,1,1,0,2351212
+Hay Moulouya,apartment,new,87,1,1,4,39,1,0,1,1,792509
+Hay Sidi Ahmed,apartment,good,295,8,4,1,28,1,0,1,0,2155843
+Hay Bouhdila,apartment,good,232,5,1,6,10,1,0,1,0,1799608
+Centre-ville,apartment,good,254,7,3,6,22,1,0,0,1,2519215
+Hay Sidi Ahmed,villa,good,177,5,3,0,23,1,1,1,1,1979107
+Hay Moulouya,house,renovated,240,5,2,0,1,0,1,1,1,2559004
+Lotissement El Massira,house,good,158,4,2,0,7,0,0,1,1,1791144
+Hay Trifa,apartment,good,251,7,3,6,15,0,0,1,1,1864929
+Hay Sidi Ahmed,apartment,good,111,2,1,6,26,1,0,0,0,827833
+Hay Trifa,house,good,231,5,2,0,34,1,1,0,1,1549888
+Hay Nahda,house,to_renovate,253,7,3,0,11,1,1,1,0,2180326
+Hay Sidi Ahmed,house,good,187,5,2,0,27,1,0,0,1,1492187
+Hay Bouhdila,house,good,293,8,3,0,6,1,0,1,1,2906916
+Hay Trifa,apartment,good,246,7,3,0,16,1,0,0,0,1673458
+Centre-ville,house,to_renovate,282,6,1,0,21,1,1,1,1,2421849
+Hay Nahda,villa,good,271,7,3,0,13,0,1,0,0,3255253
+Hay El Qods,villa,good,262,4,2,0,3,1,1,1,1,2979600
+Hay Trifa,house,new,65,2,1,0,25,0,0,1,1,604385
+Lotissement El Massira,apartment,new,188,3,2,5,30,0,0,0,0,1832320
+Lotissement El Massira,house,new,194,3,1,0,6,1,1,1,0,2592183
+Hay Bouhdila,house,good,137,2,1,0,36,0,1,0,1,1041433
+Hay El Qods,apartment,renovated,81,2,1,0,9,1,0,1,1,1044590
+Hay Moulouya,apartment,renovated,253,6,3,0,15,1,0,0,1,2163820
+Hay Moulouya,apartment,good,253,5,1,2,4,0,1,0,0,2233529
+Hay Trifa,house,renovated,119,5,2,0,42,1,1,1,1,1234181
+Hay Nahda,apartment,new,49,2,1,1,44,1,0,1,0,573960
+Hay Trifa,apartment,good,183,5,2,6,44,1,0,0,1,1228657
+Hay Moulouya,apartment,good,280,8,3,4,13,1,0,1,0,2541115
+Hay Bouhdila,apartment,good,230,6,3,3,21,1,0,0,1,1759465
+Hay Moulouya,apartment,good,139,4,3,4,34,1,0,0,0,1038739
+Hay Moulouya,villa,good,241,6,3,0,37,1,1,1,0,2318240
+Hay Bouhdila,apartment,to_renovate,253,6,3,1,12,1,0,1,1,1740824
+Hay Nahda,apartment,good,125,4,2,5,2,1,0,0,0,1312195
+Hay Bouhdila,villa,good,78,2,1,0,35,0,1,0,0,681006
+Hay Salam,apartment,renovated,225,5,3,3,39,1,0,0,1,1923289
+Hay Moulouya,apartment,good,117,3,1,6,41,1,0,0,1,862667
+Lotissement El Massira,apartment,good,183,4,2,3,37,1,0,0,0,1448041
+Hay Nahda,house,good,84,2,1,0,14,0,1,1,0,954444
+Hay Salam,house,new,48,1,1,0,3,0,1,0,0,673870
+Hay Salam,house,renovated,133,3,1,0,32,0,1,0,1,1323627
+Hay Nahda,apartment,to_renovate,205,4,1,6,15,1,0,1,0,1520224
+Lotissement El Massira,house,to_renovate,207,5,3,0,1,0,1,0,0,1922997
+Hay Moulouya,apartment,good,82,2,1,5,2,1,0,0,1,776318
+Lotissement El Massira,apartment,good,217,5,2,0,17,1,0,0,0,2096129
+Lotissement El Massira,apartment,renovated,61,2,1,0,4,1,0,0,1,736018
+Hay Dallas,house,renovated,284,7,3,0,24,1,1,1,0,2821663
+Hay Dallas,apartment,good,291,8,3,2,31,0,0,1,1,2429479
+Centre-ville,house,renovated,104,3,1,0,14,0,1,1,0,1326617
+Lotissement El Massira,apartment,good,253,7,2,5,23,1,0,0,0,2182117
+Lotissement El Massira,apartment,good,150,4,2,0,35,1,0,1,1,1466764
+Hay Trifa,apartment,new,67,1,1,0,26,1,0,0,0,577243
+Hay Trifa,house,new,162,6,3,0,30,1,1,0,1,1676346
+Centre-ville,apartment,new,239,5,2,5,40,0,0,0,1,2241843
+Centre-ville,apartment,good,289,7,3,6,43,1,0,0,0,2365351
+Centre-ville,apartment,good,141,4,2,3,32,1,0,1,0,1520036
+Lotissement El Massira,apartment,renovated,310,6,3,5,26,1,0,0,1,3202676
+Centre-ville,apartment,good,139,2,1,5,14,0,0,1,1,1529933
+Hay Bouhdila,house,renovated,235,6,2,0,34,1,1,1,1,2243351
+Hay Bouhdila,villa,good,232,6,4,0,16,1,1,1,0,2295036
+Hay Nahda,apartment,renovated,275,6,1,0,4,0,0,0,0,2888755
+Centre-ville,house,good,298,7,2,0,32,0,1,0,0,3020977
+Centre-ville,house,good,100,1,1,0,22,1,1,1,0,1241891
+Hay Moulouya,house,renovated,305,7,2,0,24,1,1,0,0,2624132
+Lotissement El Massira,apartment,renovated,207,6,3,6,27,1,0,0,0,2011478
+Hay Salam,apartment,good,146,4,3,6,43,1,0,1,1,1153748
+Hay Dallas,house,new,150,3,1,0,8,0,0,1,0,1695824
+Centre-ville,house,good,99,2,1,0,1,0,1,1,0,1260217
+Centre-ville,house,good,191,4,1,0,11,1,0,1,1,2096878
+Centre-ville,apartment,good,154,4,2,3,13,1,0,0,0,1602769
+Hay El Qods,house,renovated,186,4,3,0,31,1,0,1,1,1857468
+Lotissement El Massira,apartment,good,184,4,2,3,7,1,0,0,1,1865827
+Hay Trifa,apartment,renovated,306,8,3,1,21,1,0,0,0,2432594
+Hay Sidi Ahmed,apartment,to_renovate,211,6,3,0,45,1,0,0,0,1188824
+Hay Nahda,house,new,215,5,1,0,16,1,1,1,1,2471352
+Centre-ville,apartment,good,280,7,3,5,39,1,0,1,1,2624426
+Hay Nahda,villa,good,275,7,3,0,30,1,1,1,1,3145636
+Centre-ville,villa,new,141,2,1,0,3,1,1,0,0,2371282
+Hay Salam,villa,new,141,4,1,0,10,1,1,1,1,2294679
+Hay El Qods,apartment,new,67,2,1,1,19,1,0,0,1,788264
+Hay Dallas,house,new,253,7,3,0,15,0,0,0,0,2630584
+Hay Trifa,house,renovated,63,2,1,0,20,1,1,1,0,769624
+Hay El Qods,apartment,good,153,3,1,4,3,1,0,0,1,1425799
+Hay Moulouya,house,good,174,5,2,0,31,1,0,0,1,1383385
+Hay Trifa,apartment,renovated,144,3,1,1,22,0,0,0,0,1149790
+Hay Bouhdila,apartment,good,302,7,3,6,1,0,0,0,0,2668725
+Lotissement El Massira,apartment,renovated,265,5,1,6,1,1,0,0,1,2763694
+Hay Dallas,house,new,114,2,1,0,16,0,0,1,1,1213080
+Hay Dallas,apartment,good,45,2,1,4,21,1,0,0,0,347415
+Lotissement El Massira,apartment,renovated,277,7,3,1,9,1,0,1,1,2743772
+Hay Bouhdila,apartment,new,275,6,3,3,32,0,0,0,0,2216640
+Hay Bouhdila,apartment,new,131,3,1,0,38,0,0,0,0,994324
+Hay Salam,apartment,renovated,252,6,3,3,6,1,0,0,1,2215225
+Hay Trifa,house,good,235,5,2,0,24,1,0,0,0,1689803
+Hay Dallas,house,good,191,4,3,0,31,1,1,1,1,1615431
+Hay Sidi Ahmed,house,good,135,3,1,0,9,0,1,1,0,1332570
+Hay Dallas,house,good,74,2,1,0,42,1,0,0,0,630573
+Hay Salam,house,renovated,105,4,2,0,25,0,0,1,0,1060606
+Hay Moulouya,apartment,to_renovate,97,3,1,5,34,1,0,1,1,727333
+Hay Salam,apartment,good,121,3,2,3,24,0,0,0,0,932921
+Hay Trifa,apartment,good,104,2,1,2,38,1,0,0,1,796618
+Hay Nahda,apartment,to_renovate,164,3,1,1,5,1,0,1,1,1231041
+Hay Salam,house,good,174,3,1,0,25,0,1,1,1,1798049
+Hay Bouhdila,house,new,214,4,2,0,18,0,1,1,0,2115867
+Hay Salam,villa,good,228,6,3,0,29,0,1,0,1,2260935
+Hay Nahda,apartment,good,230,7,4,6,1,0,0,1,1,2329841
+Hay Sidi Ahmed,house,renovated,61,1,2,0,15,1,1,1,0,840451
+Hay Sidi Ahmed,apartment,good,240,4,2,0,7,1,0,1,1,2083876
+Hay El Qods,apartment,renovated,50,1,1,6,4,1,0,0,1,609251
+Hay Trifa,apartment,good,232,5,2,6,41,1,0,0,1,1429516
+Hay Nahda,house,good,115,2,1,0,21,0,1,0,0,1096429
+Hay Salam,villa,renovated,241,6,3,0,33,1,1,1,1,2773327
+Hay Sidi Ahmed,house,renovated,300,8,4,0,37,1,1,1,1,2764431
+Hay Trifa,house,good,71,1,1,0,3,0,1,1,1,813960
+Centre-ville,apartment,new,179,6,3,5,40,0,0,1,1,1873953
+Hay Trifa,house,good,75,2,1,0,26,1,0,1,1,730110
+Lotissement El Massira,apartment,good,62,3,1,5,28,1,0,0,1,625045
+Hay Sidi Ahmed,apartment,renovated,255,5,2,2,29,0,0,0,1,1923696
+Centre-ville,house,good,260,7,3,0,38,1,1,1,1,2643817
+Hay Salam,apartment,good,296,6,4,2,3,1,0,0,0,2410218
+Hay Moulouya,villa,good,46,2,1,0,28,1,1,1,0,699714
+Hay Bouhdila,apartment,good,131,4,2,2,40,0,0,0,1,915047
+Hay Salam,apartment,good,67,1,1,1,8,0,0,0,0,518612
+Hay Trifa,apartment,new,222,5,2,2,32,0,0,0,1,1632093
+Hay Dallas,apartment,good,119,3,2,5,20,1,0,0,1,1010530
+Hay Trifa,apartment,new,304,7,3,1,33,0,0,1,0,2338305
+Centre-ville,apartment,new,128,2,1,2,29,0,0,0,1,1340683
+Hay Nahda,apartment,good,209,5,2,0,3,1,0,1,0,1974360
+Hay El Qods,house,renovated,84,1,1,0,3,1,1,0,0,1163774
+Hay Nahda,villa,renovated,138,4,2,0,1,1,1,0,1,1882387
+Hay Dallas,apartment,to_renovate,92,3,2,1,6,1,0,1,0,743515
+Hay Salam,apartment,good,223,6,3,3,42,0,0,0,0,1637236
+Hay Dallas,apartment,to_renovate,159,3,1,4,16,0,0,0,1,1216626
+Hay Sidi Ahmed,apartment,good,48,1,1,0,34,0,0,0,0,356207
+Hay Salam,apartment,good,223,7,3,2,4,1,0,0,1,2176796
+Hay Trifa,villa,good,133,3,1,0,6,1,1,0,0,1486098
+Hay Nahda,villa,good,158,4,2,0,12,0,1,1,0,2075258
+Centre-ville,house,to_renovate,66,1,1,0,2,1,0,0,1,722947
+Hay Salam,house,renovated,234,5,2,0,32,1,1,1,1,2227592
+Hay Moulouya,apartment,to_renovate,54,1,1,0,28,1,0,0,1,343760
+Hay Trifa,apartment,good,204,6,3,6,22,1,1,0,1,1644443
+Hay Dallas,house,to_renovate,319,6,2,0,21,1,0,0,1,2281306
+Hay Bouhdila,apartment,to_renovate,97,3,1,5,36,1,0,0,0,502061
+Lotissement El Massira,house,good,70,2,1,0,39,0,1,1,1,914918
+Hay Nahda,house,new,141,2,1,0,8,0,1,1,1,1753295
+Lotissement El Massira,house,good,287,7,3,0,35,1,1,1,1,2673591
+Hay Bouhdila,apartment,renovated,199,4,2,1,15,1,0,1,1,1651149
+Lotissement El Massira,apartment,good,223,6,2,6,39,1,0,0,1,1926793
+Hay Bouhdila,villa,good,170,7,3,0,30,1,0,1,0,1721420
+Hay Bouhdila,apartment,good,154,4,2,4,11,0,1,1,0,1392007
+Hay Trifa,apartment,new,166,4,2,3,37,1,0,0,1,1259943
+Hay Dallas,apartment,good,193,5,2,0,20,0,1,0,0,1488940
+Hay Sidi Ahmed,house,good,140,4,1,0,7,0,0,0,0,1173212
+Hay El Qods,apartment,to_renovate,315,7,2,3,14,1,0,1,1,2359734
+Hay Dallas,villa,good,145,4,2,0,12,0,0,1,1,1592993
+Lotissement El Massira,villa,renovated,126,3,1,0,43,0,1,0,1,1523324
+Hay Trifa,house,renovated,251,6,2,0,36,1,1,1,1,2000302
+Hay El Qods,apartment,new,162,4,2,6,13,0,0,0,0,1816272
+Hay Moulouya,apartment,good,125,3,1,4,24,1,0,0,0,979652
+Hay Sidi Ahmed,villa,good,311,7,3,0,26,0,1,1,0,3056696
+Hay Moulouya,villa,renovated,121,2,2,0,20,0,1,1,1,1525083
+Hay El Qods,house,new,276,7,3,0,5,1,1,1,0,3562610
+Hay Moulouya,apartment,good,58,2,2,2,36,1,0,1,1,606207
+Hay Trifa,villa,good,194,4,1,0,19,0,1,0,0,1902312
+Hay Moulouya,apartment,good,122,3,1,2,24,0,0,0,1,913703
+Hay El Qods,apartment,new,133,4,2,5,26,1,0,1,1,1352954
+Hay Dallas,apartment,good,83,2,1,5,7,0,0,0,0,735983
+Centre-ville,house,good,76,2,1,0,22,0,1,0,1,890253
+Hay Moulouya,villa,new,319,8,3,0,31,1,1,1,0,3575604
+Hay Salam,apartment,good,213,6,3,1,18,1,0,0,0,1953474
+Lotissement El Massira,apartment,good,123,4,1,6,33,0,0,0,0,1062255
+Hay Moulouya,house,good,100,3,1,0,4,1,1,1,0,1052640
+Hay Salam,house,good,266,7,3,0,30,1,0,1,1,2503968
+Hay Nahda,villa,good,304,8,4,0,9,1,1,1,1,3799128
+Hay Bouhdila,apartment,new,60,2,1,2,11,1,0,1,1,724624
+Hay Dallas,house,good,143,3,1,0,36,1,1,1,1,1502569
+Hay Dallas,apartment,good,245,7,3,3,27,0,0,0,1,1714557
+Lotissement El Massira,apartment,good,110,3,1,5,27,1,0,0,1,1089167
+Centre-ville,house,to_renovate,67,1,1,0,7,1,0,0,0,722698
+Hay Bouhdila,villa,new,252,7,3,0,37,1,1,1,0,2584451
+Hay El Qods,house,renovated,280,5,3,0,44,0,0,0,0,2492210
+Hay El Qods,villa,good,91,3,1,0,36,1,1,0,1,1174954
+Hay Moulouya,house,good,281,7,3,0,40,1,1,1,0,2125413
+Lotissement El Massira,apartment,good,139,4,2,1,45,1,0,1,1,1209260
+Hay Dallas,apartment,renovated,185,5,2,2,44,0,0,0,1,1507371
+Hay Sidi Ahmed,house,new,66,1,1,0,12,1,1,0,0,786342
+Hay El Qods,apartment,renovated,48,2,1,1,38,1,0,0,0,491616
+Hay Nahda,apartment,to_renovate,120,2,1,1,12,1,0,0,0,926648
+Centre-ville,house,good,286,7,3,0,25,1,1,1,0,3598398
+Hay Sidi Ahmed,house,good,256,6,3,0,16,1,1,0,0,2328604
+Hay Bouhdila,house,good,200,5,2,0,21,0,1,0,1,1745170
+Hay Dallas,house,renovated,221,5,1,0,29,1,1,1,1,2212154
+Hay Trifa,apartment,renovated,117,3,2,1,30,1,0,1,0,1053416
+Hay Trifa,villa,good,121,3,1,0,25,1,1,1,1,1428731
+Hay Bouhdila,apartment,to_renovate,319,8,3,5,19,0,0,0,1,1863265
+Hay Bouhdila,house,new,316,7,3,0,38,1,1,0,0,2488564
+Hay Sidi Ahmed,apartment,good,195,5,2,1,34,1,0,0,0,1369504
+Hay Trifa,house,new,88,3,2,0,23,1,1,1,1,1109251
+Lotissement El Massira,apartment,good,226,5,3,1,42,1,0,0,0,1807093
+Centre-ville,house,good,295,7,3,0,27,1,1,1,1,3316784
+Hay Moulouya,apartment,good,270,5,2,1,9,1,0,0,1,2300896
+Hay Dallas,villa,new,251,7,2,0,32,0,0,1,1,2876863
+Hay Bouhdila,house,good,80,1,1,0,19,1,1,1,0,859289
+Hay Moulouya,house,good,204,6,2,0,3,1,1,1,1,2055269
+Centre-ville,apartment,good,204,4,2,0,21,0,0,0,1,2034324
+Hay Dallas,apartment,to_renovate,133,2,2,5,15,1,0,0,0,1030340
+Lotissement El Massira,apartment,good,193,4,2,1,28,1,0,0,1,1613763
+Hay Salam,apartment,good,195,5,1,6,10,1,0,0,0,1796910
+Hay Moulouya,house,good,224,6,3,0,8,0,1,1,1,2323810
+Lotissement El Massira,house,good,56,1,1,0,37,1,0,1,1,637046
+Lotissement El Massira,apartment,renovated,117,2,1,1,25,1,0,0,1,1148661
+Hay Nahda,house,new,153,3,1,0,20,1,0,1,0,1638511
+Hay Bouhdila,apartment,good,155,4,2,4,4,1,0,0,1,1271061
+Centre-ville,apartment,good,125,2,1,5,40,1,0,1,1,1250751
+Hay El Qods,house,new,165,4,2,0,8,1,1,1,0,2039138
+Hay Bouhdila,house,good,226,6,3,0,44,0,0,1,1,1715053
+Hay Trifa,house,good,138,4,1,0,35,0,1,1,0,1171751
+Hay Bouhdila,apartment,new,288,6,3,5,22,0,0,0,0,2236591
+Hay Nahda,house,to_renovate,185,4,1,0,34,0,1,1,1,1425857
+Hay Trifa,apartment,good,61,1,1,0,3,1,0,0,1,581451
+Hay Moulouya,apartment,new,55,1,1,0,30,1,0,0,0,408436
+Hay Bouhdila,apartment,good,154,5,1,3,9,0,0,0,0,1271332
+Hay Trifa,villa,renovated,231,6,2,0,41,0,1,0,0,2326416
+Hay El Qods,apartment,good,81,2,1,6,25,0,0,0,1,702176
+Hay Sidi Ahmed,apartment,good,93,3,1,0,28,0,0,1,1,763144
+Hay Trifa,house,good,100,3,2,0,25,1,0,1,0,910843
+Hay Bouhdila,apartment,to_renovate,250,6,2,2,26,1,0,0,1,1364060
+Hay Dallas,apartment,renovated,154,3,1,5,22,0,0,0,0,1389952
+Lotissement El Massira,apartment,good,190,4,1,5,14,1,0,1,1,1851261
+Centre-ville,house,new,230,6,2,0,3,0,1,0,0,3188729
+Hay Bouhdila,house,good,269,7,3,0,25,0,0,1,0,1965926
+Hay Trifa,apartment,to_renovate,184,3,1,2,27,1,0,0,1,1046422
+Hay Trifa,apartment,new,319,8,4,1,9,1,1,0,0,2989512
+Centre-ville,apartment,good,319,7,2,3,11,0,0,1,1,3480526
+Hay Trifa,apartment,new,48,1,1,4,10,0,1,0,0,555516
+Hay Salam,villa,good,207,5,4,0,37,1,1,1,1,2431764
+Lotissement El Massira,villa,to_renovate,276,7,2,0,40,0,1,1,1,2403583
+Hay Moulouya,house,good,49,1,1,0,5,0,0,0,0,459695
+Hay Moulouya,apartment,to_renovate,273,6,2,3,41,0,0,1,1,1652491
+Hay Trifa,house,renovated,111,4,1,0,17,1,1,1,1,1287708
+Hay Moulouya,house,good,303,8,4,0,27,1,0,1,1,2522118
+Hay Salam,apartment,new,106,3,1,3,7,0,0,1,0,1178888
+Hay Salam,apartment,good,224,6,3,2,7,0,0,0,1,1948053
+Hay Trifa,house,new,173,4,2,0,34,1,1,0,1,1561901
+Hay Nahda,house,good,303,7,3,0,0,1,1,1,1,3219258
+Hay Salam,apartment,good,149,3,1,6,14,0,0,0,0,1117427
+Hay Dallas,apartment,good,272,6,3,1,14,0,0,1,1,2316444
+Hay Moulouya,house,to_renovate,179,4,1,0,27,0,1,1,1,1222558
+Hay Sidi Ahmed,apartment,new,245,6,2,2,9,1,0,1,0,2045453
+Hay El Qods,apartment,new,298,7,3,1,43,0,0,1,0,2187542
+Hay Moulouya,apartment,renovated,283,6,3,5,28,0,0,1,1,2318799
+Hay Salam,villa,new,250,6,3,0,4,1,1,0,0,3410009
+Hay Sidi Ahmed,house,good,170,4,1,0,36,1,0,1,0,1341622
+Hay Moulouya,villa,good,207,5,2,0,5,1,0,1,1,2403703
+Hay El Qods,villa,renovated,257,7,2,0,44,1,1,0,1,2663351
+Hay Sidi Ahmed,apartment,good,76,2,1,0,4,1,1,0,1,776355
+Lotissement El Massira,apartment,new,101,2,1,1,10,0,1,0,1,1206008
+Centre-ville,house,renovated,154,4,3,0,1,1,1,0,1,2213131
+Hay El Qods,apartment,good,252,7,3,0,40,1,0,0,1,1859467
+Hay El Qods,apartment,to_renovate,66,2,1,6,39,0,0,0,1,459459
+Centre-ville,villa,good,222,7,2,0,1,1,0,1,1,3012709
+Hay Salam,apartment,renovated,138,2,1,6,16,1,0,1,1,1309091
+Hay Sidi Ahmed,villa,good,65,1,1,0,31,1,1,1,1,845743
+Hay Salam,villa,renovated,104,2,1,0,29,0,1,1,1,1308493
+Hay Sidi Ahmed,apartment,good,191,5,2,1,39,0,0,1,1,1381126
+Lotissement El Massira,apartment,to_renovate,141,2,1,1,8,1,0,0,0,1103667
+Hay Salam,apartment,good,262,6,2,6,45,1,0,0,1,2006975
+Hay Bouhdila,house,good,221,4,2,0,37,1,1,1,0,1737540
+Centre-ville,apartment,to_renovate,75,2,1,2,33,0,0,1,1,702236
+Hay Trifa,apartment,good,245,5,2,3,18,0,0,0,1,1797191
+Hay Moulouya,apartment,good,313,7,3,5,3,1,0,1,0,2898500
+Hay Salam,villa,good,213,6,3,0,19,1,1,1,1,2509264
+Hay Bouhdila,house,to_renovate,256,6,3,0,15,1,1,1,0,2034194
+Hay Sidi Ahmed,villa,renovated,110,3,1,0,15,0,1,1,0,1319543
+Hay Nahda,apartment,to_renovate,189,3,1,3,42,1,0,0,1,1065046
+Hay Nahda,house,good,218,5,3,0,45,1,1,0,1,1794861
+Hay Sidi Ahmed,house,good,119,4,2,0,2,1,1,1,1,1325181
+Hay Sidi Ahmed,apartment,to_renovate,252,6,2,1,30,0,0,0,0,1325438
+Hay El Qods,house,good,82,2,1,0,31,1,0,1,1,807476
+Hay Moulouya,house,renovated,176,4,1,0,19,1,0,0,1,1577488
+Centre-ville,apartment,good,94,2,1,3,17,1,1,1,1,1233888
+Hay El Qods,house,renovated,168,5,2,0,12,1,1,1,1,2063508
+Hay Trifa,house,good,294,7,4,0,8,0,1,1,1,2486387
+Lotissement El Massira,villa,good,222,6,2,0,12,1,1,1,1,2909134
+Centre-ville,house,new,100,2,1,0,5,1,1,1,1,1555701
+Hay El Qods,villa,good,302,8,3,0,35,1,1,1,0,3224724
+Hay Bouhdila,house,good,112,3,2,0,36,0,1,1,1,1111685
+Hay Salam,house,good,237,6,2,0,39,0,1,0,1,1886212
+Hay Moulouya,apartment,renovated,166,3,1,6,23,0,0,0,1,1388533
+Hay Dallas,house,good,286,7,4,0,11,1,1,1,1,3022638
+Hay Sidi Ahmed,apartment,new,147,4,1,5,4,1,0,1,0,1597396
+Hay Moulouya,apartment,good,225,5,2,3,24,0,0,1,0,1772134
+Hay Trifa,apartment,renovated,315,8,3,4,17,1,0,0,0,2399747
+Centre-ville,house,renovated,225,4,1,0,31,1,0,1,1,2329006
+Hay Bouhdila,apartment,renovated,111,3,1,0,22,1,0,1,1,1074840
+Hay Bouhdila,house,renovated,53,1,1,0,31,1,1,1,1,666935
+Hay Dallas,villa,new,256,7,3,0,10,1,1,1,1,3355936
+Hay Salam,apartment,new,73,2,1,4,27,1,0,0,1,759949
+Lotissement El Massira,house,renovated,104,2,1,0,30,0,0,0,1,1134832
+Hay Moulouya,house,good,311,7,2,0,33,1,1,1,1,2510945
+Lotissement El Massira,villa,renovated,275,7,4,0,36,1,1,1,1,3258277
+Hay Moulouya,apartment,good,129,4,2,4,35,0,0,1,1,1100288
+Hay Nahda,apartment,good,86,3,2,6,44,0,0,0,0,747134
+Hay Nahda,house,good,60,2,1,0,25,1,1,1,1,811601
+Hay Salam,house,renovated,298,8,4,0,11,1,1,1,1,2908348
+Hay Bouhdila,apartment,good,175,2,1,1,38,1,0,1,0,1141445
+Hay Nahda,house,good,250,6,3,0,43,0,1,1,0,2094188
+Centre-ville,house,new,234,6,2,0,37,1,1,0,1,2721960
+Hay Salam,apartment,good,233,6,2,5,34,0,0,0,0,1662233
+Hay Trifa,apartment,good,236,5,2,4,11,1,1,0,1,1961380
+Hay Bouhdila,villa,good,300,6,2,0,8,0,1,1,1,2924484
+Lotissement El Massira,house,good,276,6,3,0,11,0,0,1,0,2875085
+Lotissement El Massira,house,to_renovate,315,8,4,0,21,1,1,1,1,2603127
+Hay El Qods,villa,good,317,7,3,0,14,1,0,1,1,3377530
+Hay Trifa,house,new,304,7,3,0,2,1,1,1,1,3117038
+Hay Bouhdila,apartment,renovated,150,4,1,2,1,1,0,0,0,1292878
+Hay Trifa,house,new,78,3,1,0,12,0,1,1,1,932815
+Lotissement El Massira,apartment,good,221,5,2,0,7,1,0,1,0,2327189
+Centre-ville,apartment,good,111,3,1,2,3,1,0,1,1,1464911
+Hay Nahda,apartment,good,59,1,1,0,44,0,0,0,0,430127
+Hay Dallas,apartment,to_renovate,238,6,2,3,44,1,0,0,0,1308067
+Hay Salam,apartment,to_renovate,237,7,3,5,17,0,0,0,0,1532125
+Hay Salam,apartment,good,317,7,3,4,40,1,1,1,0,2459825
+Hay Dallas,apartment,new,225,4,2,6,18,0,0,0,1,1976836
+Lotissement El Massira,villa,good,311,7,2,0,45,1,0,1,1,2758323
+Hay Trifa,apartment,new,136,4,2,6,26,0,0,1,1,1303513
+Centre-ville,house,good,213,5,2,0,1,1,1,1,1,2707346
+Hay El Qods,house,good,81,2,1,0,18,1,1,1,0,920829
+Lotissement El Massira,apartment,good,56,1,1,5,20,1,0,0,1,575744
+Hay Moulouya,house,renovated,143,3,1,0,10,1,1,0,0,1546750
+Hay Salam,apartment,renovated,251,6,3,5,21,0,0,0,0,2310675
+Hay El Qods,house,good,224,5,2,0,16,1,1,0,0,2296115
+Hay Salam,house,new,162,5,2,0,22,1,1,1,0,1840286
+Hay El Qods,house,good,206,6,2,0,38,0,1,1,0,1892164
+Hay Nahda,apartment,new,97,2,1,5,45,1,0,0,1,932748
+Lotissement El Massira,apartment,renovated,234,4,2,5,6,1,0,0,1,2397885
+Hay Bouhdila,apartment,renovated,269,6,2,4,33,1,1,0,1,2393796
+Hay El Qods,apartment,renovated,150,4,2,0,29,0,0,0,0,1431545
+Centre-ville,house,good,166,5,2,0,23,1,0,1,1,1972418
+Hay Dallas,house,renovated,122,3,2,0,44,1,1,1,1,1342228
+Hay Bouhdila,apartment,new,250,6,3,0,29,1,1,0,1,2255944
+Hay Trifa,apartment,new,248,6,3,6,23,1,0,1,0,2292887
+Hay El Qods,apartment,good,232,6,3,4,45,1,1,0,1,1840892
+Hay Salam,villa,good,295,7,4,0,23,0,1,1,0,3149829
+Lotissement El Massira,villa,good,107,2,1,0,1,1,1,1,0,1732320
+Centre-ville,apartment,renovated,91,3,1,4,24,1,0,1,0,1056717
+Hay Moulouya,apartment,good,98,1,1,3,30,1,0,1,1,872567
+Hay Dallas,apartment,new,267,6,3,2,38,0,0,0,1,2182467
+Centre-ville,house,good,309,8,3,0,26,0,1,1,1,3223586
+Hay Salam,apartment,good,214,5,2,1,40,1,0,1,0,1837722
+Lotissement El Massira,apartment,good,299,8,3,6,39,1,0,1,1,2564739
+Hay Nahda,villa,good,46,2,1,0,5,0,0,1,1,683683
+Hay El Qods,house,new,242,5,2,0,26,1,1,0,0,2498357
+Hay Moulouya,house,renovated,231,6,3,0,42,1,1,1,0,1993480
+Hay Bouhdila,house,to_renovate,195,4,1,0,13,1,0,1,0,1339146
+Hay Trifa,apartment,good,68,3,1,5,29,1,0,0,1,539713
+Hay Moulouya,house,renovated,67,2,1,0,2,1,1,1,1,924521
+Hay Bouhdila,house,to_renovate,117,2,1,0,5,0,1,1,1,917886
+Hay Trifa,apartment,good,122,3,2,1,33,1,0,1,0,982295
+Hay Bouhdila,apartment,renovated,249,6,2,2,5,1,0,1,0,2294772
+Hay Nahda,house,renovated,205,5,1,0,39,1,0,1,0,1881479
+Lotissement El Massira,villa,good,146,4,1,0,39,1,1,1,0,1724601
+Hay Moulouya,house,to_renovate,111,2,2,0,24,1,0,0,1,824866
+Centre-ville,apartment,renovated,71,2,1,5,41,0,1,0,0,783701
+Lotissement El Massira,house,to_renovate,315,8,4,0,10,1,1,0,1,2930914
+Hay El Qods,villa,new,258,6,3,0,40,0,1,1,0,2818896
+Hay Trifa,apartment,new,291,8,4,0,42,1,0,0,0,2153995
+Lotissement El Massira,apartment,good,232,5,3,0,44,1,0,0,0,1892348
+Lotissement El Massira,apartment,good,212,4,1,4,3,0,0,0,1,2203009
+Hay El Qods,house,good,143,1,1,0,7,1,1,1,1,1647201
+Hay Dallas,house,renovated,284,8,4,0,4,1,0,1,0,3046856
+Hay El Qods,house,good,269,7,3,0,15,1,0,1,1,2711924
+Hay Nahda,house,good,289,8,3,0,19,1,1,0,0,2720971
+Lotissement El Massira,house,good,62,1,1,0,23,1,0,1,1,841421
+Hay Trifa,apartment,renovated,128,2,2,5,20,1,0,1,1,1127568
+Lotissement El Massira,house,good,271,7,3,0,15,1,0,1,1,2995864
+Hay Salam,apartment,good,148,4,2,0,40,0,0,1,0,1311504
+Hay Dallas,apartment,good,282,6,3,5,26,1,0,1,0,2268124
+Hay Salam,house,renovated,222,6,2,0,21,1,1,1,1,2091416
+Hay Trifa,apartment,good,75,3,2,3,0,1,0,1,0,695231
+Hay Trifa,apartment,to_renovate,151,4,2,1,44,0,0,0,0,740288
+Centre-ville,house,to_renovate,84,2,1,0,38,0,1,1,0,879619
+Hay Salam,house,renovated,287,7,3,0,33,1,1,1,1,2945108
+Hay El Qods,house,renovated,263,5,2,0,39,1,0,1,0,2231894
+Hay Bouhdila,house,new,270,6,3,0,29,1,1,1,0,2381456
+Hay Salam,apartment,renovated,310,8,4,5,36,0,1,1,1,2542201
+Hay Nahda,apartment,renovated,294,8,4,2,38,1,0,0,1,2482704
+Centre-ville,apartment,to_renovate,66,1,1,1,44,1,0,1,0,565949
+Hay Sidi Ahmed,apartment,to_renovate,247,4,2,3,31,0,0,1,0,1408004
+Hay Salam,house,new,213,6,3,0,15,1,1,0,1,2491984
+Hay Moulouya,villa,new,234,6,2,0,35,0,0,0,1,2479652
+Hay Bouhdila,apartment,good,214,6,3,4,4,0,0,1,0,1674096
+Hay Dallas,apartment,good,167,5,3,5,21,0,0,0,0,1483374
+Hay El Qods,apartment,to_renovate,201,5,2,6,2,1,1,0,0,1620397
+Hay Moulouya,apartment,good,271,7,3,2,34,0,0,0,1,2155318
+Hay Trifa,apartment,good,242,6,3,3,35,1,1,1,0,1831128
+Hay Salam,villa,renovated,286,7,3,0,18,1,0,1,1,3171251
+Hay Bouhdila,villa,to_renovate,82,2,1,0,4,1,1,1,1,880318
+Hay Dallas,apartment,to_renovate,77,1,1,4,31,1,0,1,0,531573
+Hay Dallas,apartment,renovated,81,2,1,4,2,0,0,0,1,739045
+Hay Bouhdila,house,good,287,8,3,0,44,1,1,1,1,2185871
+Hay Salam,apartment,renovated,306,7,3,3,39,1,1,0,0,2289650
+Hay El Qods,apartment,good,63,1,1,0,5,1,0,0,1,632228
+Hay Dallas,villa,good,112,2,1,0,31,1,1,1,0,1270792
+Hay Nahda,house,good,246,3,2,0,42,0,1,1,1,1887307
+Hay Bouhdila,apartment,to_renovate,169,3,1,0,25,1,0,0,0,851781
+Hay Trifa,apartment,renovated,171,3,1,3,18,1,0,0,0,1464714
+Hay El Qods,apartment,to_renovate,147,3,1,4,30,1,0,0,1,898662
+Hay Trifa,house,good,213,6,2,0,35,1,0,1,1,1805109
+Centre-ville,house,good,130,4,1,0,25,0,1,1,1,1450678
+Hay Bouhdila,house,good,53,2,2,0,12,1,0,1,1,596778
+Hay Nahda,apartment,good,57,1,1,1,39,1,0,0,0,377626
+Hay Moulouya,house,good,165,3,2,0,16,0,0,1,0,1348431
+Hay Moulouya,house,good,55,2,1,0,29,1,1,0,1,614958
+Hay El Qods,apartment,new,204,5,3,6,43,1,0,1,1,1795556
+Hay Moulouya,apartment,new,95,1,1,0,7,1,0,0,1,950868
+Centre-ville,house,good,225,6,2,0,30,1,1,1,0,2499267
+Hay Trifa,villa,good,183,4,2,0,41,0,0,1,0,1447683
+Hay El Qods,house,good,164,5,2,0,44,0,1,1,0,1628073
+Centre-ville,apartment,new,240,7,3,0,31,1,0,0,1,2693412
+Hay El Qods,apartment,new,108,4,1,2,8,0,0,0,1,1200212
+Centre-ville,house,good,308,6,3,0,12,1,1,0,0,3483422
+Hay Moulouya,villa,good,158,4,2,0,13,0,1,1,0,1761494
+Hay Nahda,apartment,good,254,5,2,5,21,1,0,0,1,1963456
+Hay El Qods,apartment,good,143,3,1,2,44,0,0,1,1,1111757
+Hay Salam,apartment,renovated,125,4,2,3,34,1,0,1,1,1255598
+Lotissement El Massira,apartment,renovated,100,3,1,2,27,0,0,1,0,977962
+Hay Dallas,apartment,to_renovate,89,2,1,0,33,0,0,0,1,560316
+Lotissement El Massira,apartment,new,253,6,3,0,20,1,0,0,1,2645597
+Hay Sidi Ahmed,house,to_renovate,229,5,2,0,10,1,1,1,1,1602307
+Lotissement El Massira,villa,good,222,5,2,0,17,0,1,1,0,3220424
+Hay Dallas,apartment,good,268,5,3,0,31,0,0,1,1,2071850
+Hay Salam,house,good,228,4,2,0,4,1,0,0,1,2038832
+Hay Trifa,villa,good,281,8,2,0,33,1,1,0,0,2615392
+Centre-ville,house,good,57,3,2,0,31,1,0,0,0,644733
+Hay Trifa,apartment,renovated,171,6,2,0,30,0,0,0,1,1284320
