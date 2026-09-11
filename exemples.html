@@ -2,74 +2,59 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Exemples - Berkane Immo</title>
-  <link rel="icon" href="image/orange.png" type="image/x-icon" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="css/common.css" />
-  <link rel="stylesheet" href="css/exemples.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example Inputs - Berkane Immo ML</title>
+  <link rel="icon" href="image/orange.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/exemples.css">
 </head>
 <body>
-  <div class="navbar">
-    <div class="logo">
-      <img src="image/orange.png" alt="Berkane Immo Logo">
-      <span class="brand">Berkane Immo</span>
-    </div>
+  <nav class="navbar" aria-label="Primary navigation">
+    <div class="logo"><img src="image/orange.png" alt="Berkane Immo logo"><span class="brand">Berkane Immo ML</span></div>
     <div class="nav-links">
-      <a href="accueil.html">Home</a>
-      <a href="exemples.html">Exemples</a>
-      <a href="learn-more2.html">Learn More</a>
-      <a href="contact.html">Contact Us</a>
+      <a href="accueil.html">Home</a><a href="estimation.html">Estimate</a>
+      <a href="exemples.html" class="active">Examples</a><a href="learn-more2.html">Method</a>
     </div>
-  </div>
-  <div class="page-title">Exemples d'Estimation Immobilière à Berkane</div>
-  <div class="examples-section">
-    <div class="example-card">
-      <div class="ex-q">Lotissement El Massira</div>
-      <div class="ex-features"><span class="ex-label">Surface:</span>130 m² &nbsp; <span class="ex-label">Chambres:</span>1 &nbsp; <span class="ex-label">SDB:</span>1</div>
-      <div class="ex-features"><span class="ex-label">Balcon:</span>oui &nbsp; <span class="ex-label">Garage:</span>non &nbsp; <span class="ex-label">Jardin:</span>non &nbsp; <span class="ex-label">Clim:</span>oui</div>
-      <div class="ex-features"><span class="ex-label">Étage:</span>3</div>
-      <div class="ex-price">2,007,222 MAD</div>
-    </div>
-    <div class="example-card">
-      <div class="ex-q">Centre-ville</div>
-      <div class="ex-features"><span class="ex-label">Surface:</span>117 m² &nbsp; <span class="ex-label">Chambres:</span>5 &nbsp; <span class="ex-label">SDB:</span>5</div>
-      <div class="ex-features"><span class="ex-label">Balcon:</span>oui &nbsp; <span class="ex-label">Garage:</span>oui &nbsp; <span class="ex-label">Jardin:</span>non &nbsp; <span class="ex-label">Clim:</span>non</div>
-      <div class="ex-features"><span class="ex-label">Étage:</span>2</div>
-      <div class="ex-price">1,374,500 MAD</div>
-    </div>
-    <div class="example-card">
-      <div class="ex-q">Hay Nahda</div>
-      <div class="ex-features"><span class="ex-label">Surface:</span>83 m² &nbsp; <span class="ex-label">Chambres:</span>2 &nbsp; <span class="ex-label">SDB:</span>1</div>
-      <div class="ex-features"><span class="ex-label">Balcon:</span>oui &nbsp; <span class="ex-label">Garage:</span>non &nbsp; <span class="ex-label">Jardin:</span>oui &nbsp; <span class="ex-label">Clim:</span>oui</div>
-      <div class="ex-features"><span class="ex-label">Étage:</span>3</div>
-      <div class="ex-price">900,800 MAD</div>
-    </div>
-    <div class="example-card">
-      <div class="ex-q">Hay El Qods</div>
-      <div class="ex-features"><span class="ex-label">Surface:</span>137 m² &nbsp; <span class="ex-label">Chambres:</span>4 &nbsp; <span class="ex-label">SDB:</span>2</div>
-      <div class="ex-features"><span class="ex-label">Balcon:</span>oui &nbsp; <span class="ex-label">Garage:</span>oui &nbsp; <span class="ex-label">Jardin:</span>non &nbsp; <span class="ex-label">Clim:</span>oui</div>
-      <div class="ex-features"><span class="ex-label">Étage:</span>1</div>
-      <div class="ex-price">951,145 MAD</div>
-    </div>
-    <div class="example-card">
-      <div class="ex-q">Hay El Qods</div>
-      <div class="ex-features"><span class="ex-label">Surface:</span>101 m² &nbsp; <span class="ex-label">Chambres:</span>5 &nbsp; <span class="ex-label">SDB:</span>1</div>
-      <div class="ex-features"><span class="ex-label">Balcon:</span>oui &nbsp; <span class="ex-label">Garage:</span>oui &nbsp; <span class="ex-label">Jardin:</span>non &nbsp; <span class="ex-label">Clim:</span>oui</div>
-      <div class="ex-features"><span class="ex-label">Étage:</span>4</div>
-      <div class="ex-price">744,225 MAD</div>
-    </div>
-  </div>
-  <div class="averages-section">
-    <div class="avg-title">Prix moyen par quartier (exemples)</div>
-    <table class="avg-table">
-      <tr><th>Quartier</th><th>Prix moyen estimé (MAD/m²)</th></tr>
-      <tr><td>Lotissement El Massira</td><td>~13,800</td></tr>
-      <tr><td>Centre-ville</td><td>~12,000</td></tr>
-      <tr><td>Hay El Qods</td><td>~9,500</td></tr>
-    </table>
-  </div>
-  <div class="cta-section">
-    <a href="estimation.html" class="cta-btn">Essayez l’estimation maintenant</a>
-  </div>
+  </nav>
+
+  <main>
+    <div class="page-title">Example model inputs</div>
+    <p style="max-width:850px;margin:0 auto 28px;text-align:center;padding:0 20px;">
+      These scenarios illustrate the features accepted by the API. Prices are deliberately omitted because no verified Berkane market dataset is included.
+    </p>
+    <section class="examples-section" aria-label="Example properties">
+      <article class="example-card">
+        <div class="ex-q">Centre-ville apartment</div>
+        <div class="ex-features"><span class="ex-label">Area:</span> 95 m² · <span class="ex-label">Bedrooms:</span> 3 · <span class="ex-label">Bathrooms:</span> 2</div>
+        <div class="ex-features"><span class="ex-label">Condition:</span> good · <span class="ex-label">Age:</span> 8 years · <span class="ex-label">Floor:</span> 2</div>
+        <div class="ex-features"><span class="ex-label">Amenities:</span> balcony, garage, air conditioning</div>
+      </article>
+      <article class="example-card">
+        <div class="ex-q">Hay El Qods house</div>
+        <div class="ex-features"><span class="ex-label">Area:</span> 160 m² · <span class="ex-label">Bedrooms:</span> 4 · <span class="ex-label">Bathrooms:</span> 2</div>
+        <div class="ex-features"><span class="ex-label">Condition:</span> renovated · <span class="ex-label">Age:</span> 18 years</div>
+        <div class="ex-features"><span class="ex-label">Amenities:</span> garden, garage, air conditioning</div>
+      </article>
+      <article class="example-card">
+        <div class="ex-q">Lotissement El Massira villa</div>
+        <div class="ex-features"><span class="ex-label">Area:</span> 280 m² · <span class="ex-label">Bedrooms:</span> 5 · <span class="ex-label">Bathrooms:</span> 3</div>
+        <div class="ex-features"><span class="ex-label">Condition:</span> new · <span class="ex-label">Age:</span> 1 year</div>
+        <div class="ex-features"><span class="ex-label">Amenities:</span> balcony, garden, garage, air conditioning</div>
+      </article>
+    </section>
+
+    <section class="averages-section">
+      <div class="avg-title">What the model learns from</div>
+      <table class="avg-table">
+        <tr><th>Feature group</th><th>Examples</th></tr>
+        <tr><td>Location</td><td>District</td></tr>
+        <tr><td>Property</td><td>Type, condition, area, age and floor</td></tr>
+        <tr><td>Capacity</td><td>Bedrooms and bathrooms</td></tr>
+        <tr><td>Amenities</td><td>Balcony, garden, garage and air conditioning</td></tr>
+      </table>
+    </section>
+    <div class="cta-section"><a href="estimation.html" class="cta-btn">Try an estimate</a></div>
+  </main>
 </body>
-</html> 
+</html>

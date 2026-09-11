@@ -1,107 +1,91 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Estimation Maison - Berkane Immo</title>
-  <link rel="icon" href="image/orange.png" type="image/x-icon" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
-  <link rel="stylesheet" href="css/estimation.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ML Price Estimate - Berkane Immo</title>
+  <link rel="icon" href="image/orange.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/estimation.css">
 </head>
 <body>
   <div class="banner-bg"></div>
   <div class="bg-deco orange"></div>
   <div class="bg-deco yellow"></div>
   <div class="bg-deco pink"></div>
-  <div class="header">
-    <div class="header-logo"><img src="image/orange.png" alt="Berkane Immo Logo"></div>
-    <div class="header-title">Estimation Immobilière</div>
-    <div class="header-desc">Obtenez une estimation instantanée et gratuite de votre maison à Berkane en remplissant le formulaire ci-dessous.</div>
-  </div>
-  <div class="full-glass-form-container">
-    <div class="glass-title">Estimez votre maison à Berkane</div>
-    <div class="glass-desc">Remplissez les caractéristiques de votre bien pour obtenir une estimation personnalisée.</div>
+
+  <nav class="navbar" aria-label="Primary navigation">
+    <div class="logo">
+      <img src="image/orange.png" alt="Berkane Immo logo">
+      <span class="brand">Berkane Immo ML</span>
+    </div>
+    <div class="nav-links">
+      <a href="accueil.html">Home</a>
+      <a href="estimation.html" class="active">Estimate</a>
+      <a href="exemples.html">Examples</a>
+      <a href="learn-more2.html">Method</a>
+    </div>
+  </nav>
+
+  <header class="header">
+    <div class="header-logo"><img src="image/orange.png" alt=""></div>
+    <div class="header-title">Machine-learning price estimate</div>
+    <div class="header-desc">Enter the property characteristics used by the trained regression pipeline.</div>
+  </header>
+
+  <main class="full-glass-form-container">
+    <div class="glass-title">Describe the property</div>
+    <div class="glass-desc">The estimate is informational and depends entirely on the quality of the training data.</div>
+    <div id="model-status" class="model-status" role="status">Checking model status…</div>
+
     <form id="house-estimation-form" autocomplete="off">
       <div class="floating-label-group">
         <i class="fas fa-map-marker-alt"></i>
-        <select name="quartier" required>
-          <option value="" selected disabled></option>
-          <option value="Centre-ville">Centre-ville</option>
-          <option value="Hay Nahda">Hay Nahda</option>
-          <option value="Hay Salam">Hay Salam</option>
-          <option value="Lotissement El Massira">Lotissement El Massira</option>
-          <option value="Hay Moulouya">Hay Moulouya</option>
-          <option value="Hay Bouhdila">Hay Bouhdila</option>
-          <option value="Hay Sidi Ahmed">Hay Sidi Ahmed</option>
-          <option value="Hay Trifa">Hay Trifa</option>
-          <option value="Hay Dallas">Hay Dallas</option>
-          <option value="Hay El Qods">Hay El Qods</option>
+        <select name="district" aria-label="District" required>
+          <option value="" selected disabled>Select a district</option>
+          <option>Centre-ville</option><option>Hay Nahda</option><option>Hay Salam</option>
+          <option>Lotissement El Massira</option><option>Hay Moulouya</option><option>Hay Bouhdila</option>
+          <option>Hay Sidi Ahmed</option><option>Hay Trifa</option><option>Hay Dallas</option><option>Hay El Qods</option>
         </select>
-        <span class="floating-label">Quartier</span>
       </div>
       <div class="floating-label-group">
-        <i class="fas fa-ruler-combined"></i>
-        <input type="number" name="surface" min="10" max="1000" required placeholder=" " />
-        <span class="floating-label">Surface (m²)</span>
-      </div>
-      <div class="floating-label-group">
-        <i class="fas fa-bed"></i>
-        <input type="number" name="nombre_chambres" min="1" max="10" required placeholder=" " />
-        <span class="floating-label">Nombre de chambres</span>
-      </div>
-      <div class="floating-label-group">
-        <i class="fas fa-bath"></i>
-        <input type="number" name="salle_de_bain" min="1" max="5" required placeholder=" " />
-        <span class="floating-label">Salles de bain</span>
-      </div>
-      <div class="floating-label-group">
-        <i class="fas fa-layer-group"></i>
-        <input type="number" name="etage" min="0" max="10" required placeholder=" " />
-        <span class="floating-label">Étage</span>
-      </div>
-      <div class="floating-label-group">
-        <i class="fas fa-warehouse"></i>
-        <select name="balcon" required>
-          <option value="" selected disabled></option>
-          <option value="oui">Oui</option>
-          <option value="non">Non</option>
+        <i class="fas fa-building"></i>
+        <select name="property_type" aria-label="Property type" required>
+          <option value="" selected disabled>Select a property type</option>
+          <option value="apartment">Apartment</option><option value="house">House</option><option value="villa">Villa</option>
         </select>
-        <span class="floating-label">Balcon</span>
       </div>
       <div class="floating-label-group">
-        <i class="fas fa-tree"></i>
-        <select name="jardin" required>
-          <option value="" selected disabled></option>
-          <option value="oui">Oui</option>
-          <option value="non">Non</option>
+        <i class="fas fa-hammer"></i>
+        <select name="condition" aria-label="Condition" required>
+          <option value="" selected disabled>Select a condition</option>
+          <option value="to_renovate">To renovate</option><option value="good">Good</option>
+          <option value="renovated">Renovated</option><option value="new">New</option>
         </select>
-        <span class="floating-label">Jardin</span>
       </div>
-      <div class="floating-label-group">
-        <i class="fas fa-car"></i>
-        <select name="garage" required>
-          <option value="" selected disabled></option>
-          <option value="oui">Oui</option>
-          <option value="non">Non</option>
-        </select>
-        <span class="floating-label">Garage</span>
-      </div>
-      <div class="floating-label-group">
-        <i class="fas fa-snowflake"></i>
-        <select name="climatisation" required>
-          <option value="" selected disabled></option>
-          <option value="oui">Oui</option>
-          <option value="non">Non</option>
-        </select>
-        <span class="floating-label">Climatisation</span>
-      </div>
-      <button type="submit" class="glass-btn">Estimer</button>
-      <label for="prix-estime">Prix estimé :</label>
-      <input type="text" id="prix-estime" readonly value="...">
+      <div class="floating-label-group"><i class="fas fa-ruler-combined"></i><input type="number" name="area_m2" min="20" max="1000" required placeholder="Area (m²)" aria-label="Area in square metres"></div>
+      <div class="floating-label-group"><i class="fas fa-bed"></i><input type="number" name="bedrooms" min="1" max="12" required placeholder="Bedrooms" aria-label="Bedrooms"></div>
+      <div class="floating-label-group"><i class="fas fa-bath"></i><input type="number" name="bathrooms" min="1" max="8" required placeholder="Bathrooms" aria-label="Bathrooms"></div>
+      <div class="floating-label-group"><i class="fas fa-layer-group"></i><input type="number" name="floor" min="0" max="20" required value="0" placeholder="Floor" aria-label="Floor"></div>
+      <div class="floating-label-group"><i class="fas fa-calendar"></i><input type="number" name="age_years" min="0" max="100" required value="0" placeholder="Property age (years)" aria-label="Property age in years"></div>
+
+      <fieldset class="amenities">
+        <legend>Amenities</legend>
+        <label><input type="checkbox" name="balcony"> Balcony</label>
+        <label><input type="checkbox" name="garden"> Garden</label>
+        <label><input type="checkbox" name="garage"> Garage</label>
+        <label><input type="checkbox" name="air_conditioning"> Air conditioning</label>
+      </fieldset>
+
+      <button type="submit" class="glass-btn">Estimate with the model</button>
+      <div id="estimation-loader" aria-hidden="true"><span></span></div>
+      <div id="estimation-result" role="status" aria-live="polite"></div>
     </form>
-  </div>
-  <footer>
-    © 2025 Berkane Immo. All rights reserved.
-  </footer>
+  </main>
+
+  <footer>Academic prototype · Not professional valuation advice</footer>
+  <script src="js/estimation.js"></script>
 </body>
-</html> 
+</html>

@@ -1,44 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Learn More - Berkane Immo</title>
-  <link rel="icon" href="image/orange.png" type="image/x-icon" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
-  <link rel="stylesheet" href="css/common.css" />
-  <link rel="stylesheet" href="css/learn-more2.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Method - Berkane Immo ML</title>
+  <link rel="icon" href="image/orange.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/learn-more2.css">
 </head>
 <body>
-  <div class="navbar">
-    <div class="logo">
-      <img src="image/orange.png" alt="Berkane Immo Logo">
-      <span class="brand">Berkane Immo</span>
-    </div>
+  <nav class="navbar" aria-label="Primary navigation">
+    <div class="logo"><img src="image/orange.png" alt="Berkane Immo logo"><span class="brand">Berkane Immo ML</span></div>
     <div class="nav-links">
-      <a href="accueil.html">Home</a>
-      <a href="exemples.html">Exemples</a>
-      <a href="learn-more2.html">Learn More</a>
-      <a href="contact.html">Contact Us</a>
+      <a href="accueil.html">Home</a><a href="estimation.html">Estimate</a>
+      <a href="exemples.html">Examples</a><a href="learn-more2.html" class="active">Method</a>
     </div>
-  </div>
+  </nav>
   <div class="banner-bg"></div>
-  <div class="main-wrapper">
-    <h1 class="learnmore-main-title">Learn More</h1>
+  <main class="main-wrapper">
+    <h1 class="learnmore-main-title">How the estimator works</h1>
     <div class="main-container">
-      <h2><i class="fas fa-house"></i> Description</h2>
-      <p>
-        If you're looking for a house in Berkane — or just want to know how much homes really cost here — you're in the right place.<br><br>
-        We know it's not always easy to figure out the real price of a house. Sometimes it's hard to know if you're paying too much, or if the price someone tells you is fair. That's exactly why we made this site — to help people like you find out the real value of the house they're interested in.<br><br>
-        You don't need to be an expert. We made everything simple, clear, and easy to use. Whether you want to buy a house, just compare prices, or even look for fun, we're here to make it easier for you.<br><br>
-        It doesn't matter if you're a student, a family, or someone who's just curious — we want to help everyone understand house prices in Berkane.<br><br>
-        So take a look around, explore, and feel free to come back whenever you want. Knowing the price of a home should be easy — and with us, it finally is.
-      </p>
-      <a href="accueil.html" class="back-link"><i class="fas fa-arrow-left"></i> Back to Home</a>
+      <h2><i class="fas fa-database"></i> Data</h2>
+      <p>The pipeline reads a documented CSV containing property characteristics and a target price in Moroccan dirhams. Synthetic demo rows are kept separate from future real market observations.</p>
+
+      <h2><i class="fas fa-gears"></i> Preprocessing</h2>
+      <p>District, property type and condition are one-hot encoded. Numeric and binary features pass through the same scikit-learn pipeline, which prevents training and inference from applying different transformations.</p>
+
+      <h2><i class="fas fa-tree"></i> Model</h2>
+      <p>A Random Forest regressor provides a strong, understandable baseline for nonlinear tabular data. A fixed train/test split produces MAE, RMSE and R² metrics. Metrics generated from synthetic data are explicitly labelled as demonstrations.</p>
+
+      <h2><i class="fas fa-triangle-exclamation"></i> Limitations</h2>
+      <p>This repository does not include verified Berkane transaction data. The demo model therefore cannot determine a property's real market value and must not be used for financial decisions.</p>
+
+      <a href="estimation.html" class="back-link"><i class="fas fa-arrow-right"></i> Open the estimator</a>
     </div>
-    <footer style="margin-top:auto;padding:32px 0 18px 0;text-align:center;color:#fff;font-size:1.08em;background:linear-gradient(90deg,#e67e22 60%,#ffb347 100%);border-radius:32px 32px 0 0;box-shadow:0 -2px 12px rgba(230,126,34,0.10);">
-      © 2025 Berkane Immo. All rights reserved.
-    </footer>
-  </div>
+    <footer>Berkane Immo ML · Academic prototype</footer>
+  </main>
 </body>
-</html> 
+</html>
