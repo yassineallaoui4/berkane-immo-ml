@@ -1,11 +1,11 @@
-"""Flask API and static-file server for Berkane Immo ML."""
+"""Flask API and web application entry point."""
 
 from __future__ import annotations
 
 import os
 from pathlib import Path
 
-from flask import Flask, jsonify, request, send_from_directory
+from flask import Flask, jsonify, render_template, request
 
 from ml.modeling import ModelNotReadyError, load_model, predict_property
 
@@ -14,7 +14,8 @@ MODEL_PATH = Path(os.environ.get("BERKANE_MODEL_PATH", ROOT / "models" / "berkan
 
 
 def create_app(model_path: str | Path | None = None) -> Flask:
-    app = Flask(__name__, static_folder=None)
+    """Create the Flask application with separated templates and static assets."""
+    app = Flask(__name__, template_folder="web/templates", static_folder="web/static", static_url_path="/static")
     active_model_path = Path(model_path) if model_path else MODEL_PATH
 
     @app.get("/api/health")
@@ -40,12 +41,17 @@ def create_app(model_path: str | Path | None = None) -> Flask:
         return jsonify(result)
 
     @app.get("/")
-    def home():
-        return send_from_directory(ROOT, "index.html")
+    def landing():
+        return render_template("index.html")
 
-    @app.get("/<path:asset_path>")
-    def assets(asset_path: str):
-        return send_from_directory(ROOT, asset_path)
+    @app.get("/<page>")
+    def pages(page: str):
+        allowed_pages = {"accueil", "estimation", "exemples", "contact", "learn-more"}
+        if page.endswith(".html"):
+            page = page[:-5]
+        if page not in allowed_pages:
+            return "Not found", 404
+        return render_template(f"{page}.html")
 
     return app
 
@@ -54,4 +60,3 @@ app = create_app()
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=False)
-
