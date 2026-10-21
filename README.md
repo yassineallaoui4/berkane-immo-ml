@@ -85,7 +85,6 @@ Ces résultats ne constituent pas une validation métier du marché immobilier r
 
 ### Éléments visuels
 ![Bannière](image/banner-img.jpg)
-![Illustration estimation](image/estimation.png)
 
 ## Crédits
 Le site académique d’origine a été créé par **ALLAOUI Yassine** et **EL AAMRI Ayoub**. Ce dépôt conserve une présentation du projet et de sa démarche.
