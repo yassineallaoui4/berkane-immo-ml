@@ -45,12 +45,6 @@ flowchart LR
 4. Un prix indicatif est restitué.
 5. Le résultat est interprété avec prudence (contexte local, qualité des données, spécificités du bien).
 
-## Technologies utilisées (dans la version de développement du prototype)
-- Python
-- Flask
-- scikit-learn
-- HTML / CSS / JavaScript
-
 ## Cas d’utilisation
 - Démonstration académique d’un cas d’usage IA appliqué à l’immobilier local.
 - Support pédagogique pour expliquer un pipeline d’estimation de prix.
